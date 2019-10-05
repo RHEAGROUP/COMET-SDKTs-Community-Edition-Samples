@@ -1,0 +1,38 @@
+{
+  "/SiteDirectory": {
+    "target": "https://cdp4services-test.rheagroup.com",
+    "secure": false,
+    "changeOrigin": true,
+    "logLevel": "info"
+  },
+  "/EngineeringModel": {
+    "target": "https://cdp4services-test.rheagroup.com",
+    "secure": false,
+    "changeOrigin": true,
+    "logLevel": "info"
+  },
+  "/Data/Restore": {
+    "target": "https://cdp4services-test.rheagroup.com",
+    "secure": false,
+    "changeOrigin": true,
+    "logLevel": "info"
+  },
+  "/username": {
+    "target": "https://cdp4services-test.rheagroup.com",
+    "secure": false,
+    "changeOrigin": true,
+    "logLevel": "info"
+  },
+  "/logout": {
+    "target": "https://cdp4services-test.rheagroup.com",
+    "secure": false,
+    "changeOrigin": true,
+    "logLevel": "info"
+  },
+  "/login": {
+    "target": "https://cdp4services-test.rheagroup.com",
+    "secure": false,
+    "changeOrigin": true,
+    "logLevel": "info"
+  }
+}
