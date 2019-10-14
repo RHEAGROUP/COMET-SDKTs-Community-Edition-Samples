@@ -26,6 +26,6 @@ Sample application should be up and running on `http://localhost:4200`.
 NOTES:
 * default test server is accessible on `https://cdp4services-test.rheagroup.com`
 * default credentials for this server - username: admin, password: pass
-* if you would like to use it with another server than please update the URL in `proxy.config.json` file. 
+* if you would like to use it with another server then please update the URL in `proxy.config.json` file. 
 It is required, because the application is served on the Angular's test server and all requests should be forwarded
 to the "real" server
