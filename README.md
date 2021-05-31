@@ -1,4 +1,4 @@
-<img src="https://github.com/RHEAGROUP/CDP4-SDK-Community-Edition/raw/master/CDP-Community-Edition.png" width="250">
+<img src="https://github.com/RHEAGROUP/COMET-SDK-Community-Edition/raw/master/Comet_Logo.jpg" width="250">
 
 The Concurrent Design Platform Software Development Kit is a Typescript SDK that is compliant with ECSS-E-TM-10-25A Annex A and Annex C, available in the Community Edition under the [GNU LGPL](https://www.gnu.org/licenses/lgpl-3.0.en.html).
 
